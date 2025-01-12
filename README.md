@@ -1,4 +1,4 @@
-# iMessage Emoji Analyzer
+# Emoji Wrapped 🎧
 
 A Python tool to analyze and visualize your emoji usage patterns from iMessage conversations.
 
